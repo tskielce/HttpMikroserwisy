@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpWebApp_1", "HttpWebApp_1\HttpWebApp_1.csproj", "{94200F2E-8485-4895-AD52-BE40E0D8968A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpWebApp_2", "HttpWebApp_2\HttpWebApp_2.csproj", "{EEC392B9-350C-4961-954E-634406AD700E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94200F2E-8485-4895-AD52-BE40E0D8968A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94200F2E-8485-4895-AD52-BE40E0D8968A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94200F2E-8485-4895-AD52-BE40E0D8968A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94200F2E-8485-4895-AD52-BE40E0D8968A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC392B9-350C-4961-954E-634406AD700E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC392B9-350C-4961-954E-634406AD700E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC392B9-350C-4961-954E-634406AD700E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC392B9-350C-4961-954E-634406AD700E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A458BB0-6A81-462C-9FC6-6621E400F24A}
+	EndGlobalSection
+EndGlobal
